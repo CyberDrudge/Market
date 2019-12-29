@@ -1,0 +1,8 @@
+{% block view %}
+<div class="card rounded my-1" style="width: 18rem;">
+  <div class="card-body rounded">
+    <h5 class="card-title">{{ instance.name }}</h5>
+    <a href="{{ instance.get_absolute_url }}" class="btn btn-primary">View</a>
+  </div>
+</div>
+{% endblock %}

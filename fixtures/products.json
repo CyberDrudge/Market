@@ -1,0 +1,122 @@
+[
+{
+    "model": "products.products",
+    "pk": 3,
+    "fields": {
+        "name": "T-Shirt",
+        "slug": "t-shirt",
+        "quantity": 7,
+        "image": "products/2915722136/2915722136.jpeg"
+    }
+},
+{
+    "model": "products.products",
+    "pk": 4,
+    "fields": {
+        "name": "OnePlus 7",
+        "slug": "oneplus-7",
+        "quantity": 2,
+        "image": "products/3741577354/3741577354.jpg"
+    }
+},
+{
+    "model": "products.products",
+    "pk": 5,
+    "fields": {
+        "name": "Xiaomi Mi A3",
+        "slug": "xiaomi-mi-a3",
+        "quantity": 5,
+        "image": "products/3158918445/3158918445.jpg"
+    }
+},
+{
+    "model": "products.products",
+    "pk": 6,
+    "fields": {
+        "name": "Ninja Headband",
+        "slug": "ninja-headband",
+        "quantity": 20,
+        "image": "products/1029951358/1029951358.jpeg"
+    }
+},
+{
+    "model": "products.products",
+    "pk": 7,
+    "fields": {
+        "name": "Hoodie",
+        "slug": "hoodie",
+        "quantity": 9,
+        "image": "products/2360287973/2360287973.jpeg"
+    }
+},
+{
+    "model": "products.products",
+    "pk": 8,
+    "fields": {
+        "name": "Backpack",
+        "slug": "backpack",
+        "quantity": 12,
+        "image": "products/3040337803/3040337803.jpeg"
+    }
+},
+{
+    "model": "products.products",
+    "pk": 9,
+    "fields": {
+        "name": "Monitor",
+        "slug": "monitor",
+        "quantity": 5,
+        "image": "products/2820713355/2820713355.jpeg"
+    }
+},
+{
+    "model": "products.products",
+    "pk": 10,
+    "fields": {
+        "name": "Cooling Pad",
+        "slug": "cooling-pad",
+        "quantity": 15,
+        "image": "products/2398453665/2398453665.jpeg"
+    }
+},
+{
+    "model": "products.products",
+    "pk": 11,
+    "fields": {
+        "name": "Razor Gaming Keyboard",
+        "slug": "razor-blackwidow-keyboard",
+        "quantity": 7,
+        "image": "products/2634833939/2634833939.jpeg"
+    }
+},
+{
+    "model": "products.products",
+    "pk": 12,
+    "fields": {
+        "name": "Watch",
+        "slug": "watch",
+        "quantity": 10,
+        "image": "products/2395939516/2395939516.jpeg"
+    }
+},
+{
+    "model": "products.products",
+    "pk": 13,
+    "fields": {
+        "name": "Mi Band",
+        "slug": "mi-band",
+        "quantity": 10,
+        "image": "products/1364181884/1364181884.jpeg"
+    }
+},
+{
+    "model": "products.products",
+    "pk": 14,
+    "fields": {
+        "name": "Airpods",
+        "slug": "airpods",
+        "quantity": 3,
+        "image": "products/2564090852/2564090852.jpeg"
+    }
+}
+]

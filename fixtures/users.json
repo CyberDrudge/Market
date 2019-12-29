@@ -1,0 +1,47 @@
+[
+{
+    "model": "accounts.user",
+    "pk": 2,
+    "fields": {
+        "password": "pbkdf2_sha256$180000$rEkMiwBY8xWz$t55swPbiMqyl6O4lAdZw6R82ZiplIHVsOxOz3A7DPoI=",
+        "last_login": "2019-12-29T22:20:03.050Z",
+        "email": "cyberdrudge@gmail.com",
+        "phone_number": "8130707611",
+        "username": "cyberdrudge",
+        "full_name": "Cyber Drudge",
+        "staff": true,
+        "admin": true,
+        "timestamp": "2019-12-29T22:14:10.763Z"
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 3,
+    "fields": {
+        "password": "pbkdf2_sha256$180000$57FWEIXOwQej$TpagJs3X0SO/ftcYvFF9rB65jjvjA3C71z+cPFi/QQY=",
+        "last_login": null,
+        "email": "testuser@mail.com",
+        "phone_number": "123456789",
+        "username": "testuser",
+        "full_name": "Test User",
+        "staff": false,
+        "admin": false,
+        "timestamp": "2019-12-29T22:15:20.364Z"
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 4,
+    "fields": {
+        "password": "pbkdf2_sha256$180000$RxTlQjkO31LF$sc6GxB5GTaoDWCzh962SXHERyZ+YZXSrdgiy7jcEn9k=",
+        "last_login": null,
+        "email": "yatogami@yourservice.com",
+        "phone_number": "7355608000",
+        "username": "yatogami",
+        "full_name": "Yaboku",
+        "staff": false,
+        "admin": false,
+        "timestamp": "2019-12-29T22:19:31.934Z"
+    }
+}
+]
