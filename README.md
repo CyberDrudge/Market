@@ -27,6 +27,7 @@ Create Migrations:
 Load Products and Users:
 
 `python manage.py loaddata fixtures/products.json --app products.Products`
+
 `python manage.py loaddata fixtures/users.json --app accounts.User`
 
 
